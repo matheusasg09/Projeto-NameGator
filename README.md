@@ -14,7 +14,7 @@
 
 ## ◾ Projeto
 
-O NameGator é um gerador de nomes para domínios com base em prefixos e sufixos.
+O Name Gator é um gerador de nomes para domínios com base em prefixos e sufixos.
 
 ## ◾ Tecnologias
 
